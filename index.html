@@ -11,6 +11,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </head>
 <body>
+  <!-- NavBar -->
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Rnime</a>
@@ -42,8 +43,51 @@
   <div class="border-marquee">
     <marquee>Maaf Web ini sedang dalam perbaikan</marquee>
   </div>
+  <!-- SlideShow -->
+  <div class="border border-dark">
+   <div id="carouselIndicators" class="carousel slide carousel-dark carousel-fade" data-bs-ride="carousel">
+     <div class="carousel-indicators">
+       <button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+       <button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+       <button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+     </div>
+      <div class="carousel-inner">
+       <div class="carousel-item active">
+         <img src="images/thumb-pwfv09.png" class="img-fluid d-block w-100 " alt="test">
+         <div class="carousel-caption d-none d-md-block cp-slides">
+           <h5>Garupa Pico Fever! Episode 9</h5>
+           <p>Lomba Marathon Yang Diadakan  Di Hanasakigawa Pun Dimulai, Namun.... </p>
+         </div>
+       </div>
+       <div class="carousel-item">
+         <img src="images/thumb-pwfv10.png" class="img-fluid d-block w-100 " alt="...">
+         <div class="carousel-caption d-none d-md-block cp-slides">
+           <h5>Garupa Pico Fever! 10</h5>
+           <p>Saat Ako Pulang Setelah Latihan, Ako tidak sengaja menemukan buku....</p>
+         </div>
+       </div>
+       <div class="carousel-item">
+         <img src="images/thumb-pwfv11.png" class="img-fluid d-block w-100 " alt="...">
+         <div class="carousel-caption d-none d-md-block cp-slides">
+           <h5>Garupa Pico Fever! 11</h5>
+           <p>Live kemarin seru banget... Lagi pula, aku suka Morfonica...! Tapi....</p>
+         </div>
+       </div>
+     </div>
+     <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
+       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+       <span class="visually-hidden">Previous</span>
+     </button>
+     <button class="carousel-control-next" type="button" data-bs-target="#carouselIndicators" data-bs-slide="next">
+       <span class="carousel-control-next-icon" aria-hidden="true"></span>
+       <span class="visually-hidden">Next</span>
+     </button>
+   </div>
+  </div>
+  <br>
+  <!-- Article --> 
   <div class="card-group">
-    <div class="card text-center border-secondary" style="width:400px">
+    <div class="card text-center border-secondary " style="width:400px">
       <img class="card-img-top img-fluid" src="images/pwfv12.png" alt="Error images">
       <div class="card-body">
         <h4 class="card-title">Garupa Pico Fever 12</h4>
@@ -55,15 +99,15 @@
         </ul>
         <a href="anime/grp-pico-fvr-12.html" target="_blank" class="btn btn-primary">Selengkapnya</a>
         <div class="card-footer">
-          <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 4 month ago</small>
+          <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 1 Week ago</small>
         </div>
       </div>
     </div>
-  <div class="card text-center border-secondary" style="width:400px">
+  <div class="card text-center border-secondary " style="width:400px">
     <img class="card-img-top img-fluid" src="images/pwfv11.png" alt="Error images">
     <div class="card-body">
       <h4 class="card-title">Garupa Pico Fever 11</h4>
-      <p class="card-text">Setelah mashiro dan teman teman band lainnya, </p>
+      <p class="card-text">Live kemarin seru banget... Lagi pula, aku suka Morfonica...! Tapi... </p>
       <ul class="list-group list-group-flush">
         <li class="list-group-item"><img src="icon/clock.gif" width="25px"> Durasi : 3:00</li>
         <li class="list-group-item"><img src="icon/genre.png" width="25px"> Genre : Music,Comedy,Mini Series</li>
@@ -71,11 +115,11 @@
       </ul>
       <a href="anime/grp-pico-fvr-11.html" target="_blank" class="btn btn-primary">Selengkapnya</a>
       <div class="card-footer">
-        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 4 month ago</small>
+        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 1 Week ago</small>
       </div>
     </div>
   </div>
-  <div class="card text-center border-secondary" style="width:400px">
+  <div class="card text-center border-secondary " style="width:400px">
     <img class="card-img-top img-fluid" src="images/pwfv10.png" alt="Error images">
     <div class="card-body">
       <h4 class="card-title">Garupa Pico Fever 10</h4>
@@ -87,15 +131,15 @@
       </ul>
       <a href="anime/grp-pico-fvr-10.html" target="_blank" class="btn btn-primary">Selengkapnya</a>
       <div class="card-footer">
-        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 5 month ago</small>
+        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 1 Week ago</small>
        </div>
       </div>
     </div>
-     <div class="card text-center border-secondary" style="width:400px">
+     <div class="card text-center border-secondary " style="width:400px">
     <img class="card-img-top img-fluid" src="images/thumb-pwfv09.png" alt="Error images">
     <div class="card-body">
       <h4 class="card-title">Garupa Pico Fever 9</h4>
-      <p class="card-text">Lomba Marathon Yang Diadakan  Di Hanasakigawa Pun Dimulai, Namun....  </p>
+      <p class="card-text">Lomba Marathon Yang Diadakan Di Hanasakigawa Pun Dimulai, Namun....  </p>
       <ul class="list-group list-group-flush">
         <li class="list-group-item"><img src="icon/clock.gif" width="25px"> Durasi : 3:00</li>
         <li class="list-group-item"><img src="icon/genre.png" width="25px"> Genre : Music,Comedy,Mini Series</li>
@@ -103,18 +147,21 @@
       </ul>
       <a href="anime/grp-pico-fvr-09.html" target="_blank" class="btn btn-primary">Selengkapnya</a>
       <div class="card-footer">
-        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 5 month ago</small>
+        <small class="text-muted"><img src="icon/calendar.png" width="25px"> Last updated 1 Week ago</small>
        </div>
       </div>
     </div>
   </div>
-  
+  <!-- Next Page -->
   <div style="padding: 25px;">
-    <a href="list-anime.html"><img src="icon/angle-right.png" width="25px" align="right"></a>
+    <a href="#"><img src="icon/angle-right.png" width="25px" align="right"></a>
   </div>
   <br>
+  <!-- Footer -->
   <footer>
     Copyright © 2022 REYHAN. <a href="atribute.html" class="atribute">see atribute</a>
   </footer>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">👆</button>
+      <script src="/gotop.js"></script>
 </body>
 </html>
