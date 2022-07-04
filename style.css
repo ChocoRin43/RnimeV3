@@ -78,11 +78,11 @@ footer{
 
 .atribute{
   text-decoration: none;
-  color: #070707;
+  color: #000000;
 }
 
 .atribute:hover{
-  color: #070707;
+  color: #313131;
 }
 
 .cp-slides{
@@ -109,11 +109,11 @@ td{
 }
 
 .goto-hype{
-  color: #070707;
+  color: #fff;
 }
 
 .goto-hype:hover{
-  color: #343a40;
+  color: #bebebe;
 }
 
 #myBtn {
@@ -127,11 +127,63 @@ td{
   background-color: black; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 15px; /* Some padding */
+  padding: 20px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
   font-size: 18px; /* Increase font size */
+  opacity: 90%;
+  animation-duration: 4s;
 }
 
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
+  opacity: 20%;
+}
+
+h5{
+  color: #3a3a3a;
+}
+
+.bg-back{
+  background-color: #1a1d1d;
+  padding: 13px;
+  margin: 7px;
+  border-color: #212529;
+  border-radius: 6px;
+}
+
+.bg-back2{
+  background-color: #202122;
+  background-image: url(images/kurumi.png);
+  background-repeat: no-repeat;
+}
+
+.font-color-a{
+  color: #818181;
+}
+
+.bttn-a{
+  padding: 10px;
+}
+
+.bg-bttn-dark{
+  background-color: #cfcfcf;
+}
+
+.atas-solid{
+  border-top-left-radius: 10px;
+}
+
+.bg-back3{
+  background-color: #3a3a3a;
+  padding: 10px;
+  margin: 7px;
+  border-radius: 7px;
+}
+
+.bg-back4{
+  background-color: #3a3a3a;
+}
+
+.text-abu{
+  color: #000000;
 }

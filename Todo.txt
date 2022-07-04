@@ -1,0 +1,6 @@
+1. B̶i̶k̶i̶n̶ ̶t̶a̶b̶e̶l̶ ̶d̶i̶ ̶s̶e̶t̶i̶a̶p̶ ̶a̶n̶i̶m̶e̶ .Done
+2. Bereskan seperti list anime, request, dan About. Done
+3. Pasang Search Engine
+4. Pasang Meta di setiap page
+5. Buat Faq (opsional)
+6. Beli domain (.net)
