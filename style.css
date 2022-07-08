@@ -64,7 +64,7 @@ footer{
   border-style: solid;
   background-color: #6c757d;
   text-align: center;
-  margin: 10px;
+  margin: 7px;
 }
 
 .tengah-gambar{
@@ -186,4 +186,13 @@ h5{
 
 .text-abu{
   color: #000000;
+}
+
+.answer{
+  background-color: #444444;
+}
+
+.w-and-h{
+  width: auto;
+  height: auto;
 }
