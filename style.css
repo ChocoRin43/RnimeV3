@@ -61,10 +61,9 @@ article>p{
 }
 
 footer{
-  border-style: solid;
   background-color: #6c757d;
   text-align: center;
-  margin: 7px;
+  padding: 1rem;
 }
 
 .tengah-gambar{
@@ -155,7 +154,6 @@ h5{
   background-color: #202122;
   background-image: url(images/kurumi.png);
   background-repeat: no-repeat;
-  background-position: center;
 }
 
 .font-color-a{
@@ -196,4 +194,39 @@ h5{
 .w-and-h{
   width: auto;
   height: auto;
+}
+
+.tv-color {
+  color: #A5C9CA ;
+}
+
+.ova-color{
+  color: #E7F6F2;
+}
+
+.no-under{
+  text-decoration: none;
+}
+
+.judul-artikel{
+  background-color: #1a1d1d;
+  color: #555;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 7px;
+  margin-right: 1070px;
+  text-align: center;
+}
+
+::-webkit-scrollbar{
+  width: 9px;
+}
+
+::-webkit-scrollbar-track{
+  background-color: #afaeae;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgb(102, 102, 102);
+  border-radius: 10px;
 }
