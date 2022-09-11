@@ -12,6 +12,8 @@
     <link href="/style.css" rel="stylesheet" >
     <link href="/css/bootstrap.css" rel="stylesheet">
     <script src="/js/bootstrap.js"></script>
+    <script src="/js/jquery_v3.6.1.js"></script>
+    <script src="/js/event_keyboard.js"></script>
     <script type="text/javascript">
       function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
     </script>
@@ -41,7 +43,7 @@
             </ul>
             <form class="d-flex">
               <input class="form-control me-2" type="text" placeholder="Nyari apa bos...">
-              <button class="btn btn-light" type="button" data-bs-toggle="modal" data-bs-target="#softAlert">Cari</button>
+              <button id="showAlert" class="btn btn-light" type="button" data-bs-toggle="modal" data-bs-target="#softAlert">Cari</button>
             </form>
           </div>
         </div>
@@ -69,7 +71,7 @@
         <marquee>Maaf Web ini sedang dalam perbaikan</marquee>
       </div>
     <div>
-        <img src="/images/D4DJ-Double-Mix-Visual-1-scaled.webp" class="img-fluid img-center w-50">
+        <img src="/images/D4DJ-Double-Mix-Visual-1-scaled.webp" class="img-fluid img-center w-25">
         <br>
         <h3 style="text-align: center;" class="bg-back3 text-abu">D4DJ Double Mix♪</h3>
     </div>
@@ -105,7 +107,6 @@
       <table class="table table-dark">
           <tbody>
               <tr>
-                  <th>OVA</th>
                   <th>Hardsub</th>
                   <td>1080P</td>
                   <td>Mega</td>
@@ -119,6 +120,10 @@
       <strong>PERHATIAN!</strong><p>UNTUK SEMENTARA HANYA ADA 1080P HARDSUB<br>PENCET BAGIAN TEKS "NAMA EPISODE" UNTUK MENGARAHKAN KE PAGE TERSEBUT</p>
     </div>
     </div>
+    <div class="loader-wrapper">
+      <span class="loader"><span class="loader-inner"></span></span>
+    </div>
+    <script src="/js/loader.js"></script>
     <footer>
         Copyright © 2022 REYHAN. <a href="atribute.html" class="atribute">see atribute</a>
       </footer>
