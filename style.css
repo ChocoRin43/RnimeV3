@@ -7,7 +7,7 @@
 article{
   background-color: #b9b9b9;
   border-style: solid;
-  color: #070707;
+  color: #8e8e8e;
   margin: 20px;
 }
 
@@ -152,8 +152,6 @@ h5{
 
 .bg-back2{
   background-color: #202122;
-  background-image: url(images/kurumi.png);
-  background-repeat: no-repeat;
 }
 
 .font-color-a{
@@ -183,6 +181,11 @@ h5{
   background-color: #3a3a3a;
 }
 
+.yrNw{
+  font-family: 'Poppins', sans-serif;
+  color: #bebebe;
+}
+
 .text-abu{
   color: #000000;
 }
@@ -210,9 +213,9 @@ h5{
 
 .judul-artikel{
   background-color: #1a1d1d;
-  color: #555;
-  padding: 10px;
-  margin: 8px;
+  color: #8a8a8a;
+  padding: 8px;
+  margin: 12px;
   border-radius: 7px;
   text-align: center;
 }

@@ -4,3 +4,4 @@
 4. Pasang Meta di setiap page
 5. Buat Faq (opsional)
 6. Beli domain (.net)
+7. Pasang sites map (supaya ke detek search engine) Done
