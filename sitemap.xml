@@ -1,151 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
-<url>
-  <loc>https://rnimev3.my.id/</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/list-anime</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/request</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/about</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-04</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/grp-pico-fvr-11</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-dbl-mix</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-03</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-02</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/grp-pico-fvr-12</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/grp-pico-fvr-10</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/grp-pico-fvr-09</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/atribute</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/index</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/lapor-bug</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/garupa-pico-fvr</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-petit-mix</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/index.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/list-anime.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/request.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/lapor-bug.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/about.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/faq.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/jadwal.html</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/jadwal</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-01</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-05</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://rnimev3.my.id/faq</loc>
-  <lastmod>2024-03-18T03:33:53+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
+    <url>
+        <loc>https://rnimev3.my.id</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/list-anime</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/request</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/about</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-04</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/grp-pico-fvr-11</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-dbl-mix</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-03</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-02</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/grp-pico-fvr-12</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/grp-pico-fvr-10</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/grp-pico-fvr-09</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/garupa-pico-fvr</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-petit-mix</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-01</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/anime/d4dj-pt-mix-05</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/atribute</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/index</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/list-anime</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/index</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/request</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/about</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/faq</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://rnimev3.my.id/faq</loc>
+        <lastmod>2024-03-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
